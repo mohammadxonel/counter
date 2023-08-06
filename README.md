@@ -1,5 +1,6 @@
 # Counter
 
+---
 
 ### [ site demo ](https://mohammadxxali.github.io/counter/)
 
